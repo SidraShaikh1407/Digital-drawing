@@ -1,6 +1,6 @@
 # ✋ Digital Drawing with Hand Gestures
 
-A real-time hand gesture–controlled digital drawing application built with Python, OpenCV, and MediaPipe. Draw lines, rectangles, and circles — or erase — just by holding up fingers in front of your webcam!
+A real-time hand gesture–controlled digital drawing application built with Python, OpenCV, and MediaPipe. Draw lines, rectangles, and circles or erase just by holding up fingers in front of your webcam!
 
 ---
 
