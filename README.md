@@ -79,14 +79,6 @@ Digital-drawing/
 
 ---
 
-## ⌨️ Controls
-
-| Key | Action |
-|-----|--------|
-| `Q` | Quit the application |
-
----
-
 ## ⚙️ Requirements
 
 - Python 3.10+
